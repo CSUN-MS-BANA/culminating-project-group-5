@@ -1,0 +1,51 @@
+# Group Weekly Progress Report
+
+**Master's in Business Analytics – Culminating Project**  
+**Group Name:** 5  
+**Week of:** 1  
+
+## 1. Group Lead for the Week
+📌 **Lead Member Name:** Bala Rama Murthy Raju Vemanamanda
+
+---
+
+## 2. Individual Contributions
+| **Student Name**  | **Time Spent (hrs)** | **Tasks Completed** | **Challenges Faced** |
+|-------------------|-------------------|------------------|-----------------|
+| Bala Rama Murthy Raju Vemanamanda | 15 hrs  | List of research questions | Ensuring the research questions are clear, relevant, and insightful. |
+| Venkat Amit Kommineni | 12 hrs | List of Datasets and Indicators |  Selecting datasets and indicators that accurately represent the research objectives. |
+| Rahul Parasa | 16 hrs | ER-Diagram and ER-Diagram Description | Structuring the relationships correctly while keeping the ERD clear and readable. |
+| Venkata Sai Akshith Kumar Bathula | 15 hrs | Basic schema for the selected databases | Analyzing the structure of the datasets to understand the countries and their respective indicators. |
+
+---
+
+## 3.⁠ ⁠Key Achievements for the Week
+📌 Identified three essential datasets to analyze the ease of doing business in the US market: World Development Indicators, Doing Business, and Global Financial Development Datasets.
+📌 Compiled a list of 30 key indicators covering economic policies, financial stability, credit & loans, taxation, and cross-border trade.
+📌 Developed 30 research questions exploring private sector market share, banking feasibility, and challenges related to taxation, corruption, and bureaucratic inefficiencies.
+
+---
+
+## 4. Pending Tasks for Next Week
+📌 Organize and prioritize the list of research questions, selecting the most significant ones that will aid in building a predictive model for the ease of doing business and identifying key contributing attributes. 
+📌 Ensure the dataset is properly structured, handling missing values, inconsistencies, and transforming it into a format suitable for analysis.  
+📌 Filter and extract relevant financial indicators, aggregate key metrics, and structure the dataset into a time-series format for modeling.
+
+
+---
+
+## 5. GitHub Submission Details
+🔗 **GitHub Repository Link:** https://github.com/CSUN-MS-BANA/culminating-project-group-5/tree/main/Week_1
+📁 **Files Updated/Added:**  
+- List of Datasets and Indicators
+- Basic Schema for the selected datasets
+- List of Research questions
+- ER-Diagram
+- ER- Diagram Description 
+
+---
+
+### Submission Instructions
+1. Complete this progress report weekly.
+2. Upload it to your **GitHub repository** along with your project files.
+3. Keep track of contributions to maintain transparency.
