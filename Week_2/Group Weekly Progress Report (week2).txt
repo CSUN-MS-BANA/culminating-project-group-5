@@ -1,0 +1,52 @@
+# Group Weekly Progress Report
+
+**Master's in Business Analytics – Culminating Project**  
+**Group Name:** 5  
+**Week of:** 2  
+
+## 1. Group Lead for the Week
+📌 **Lead Member Name:** Bala Rama Murthy Raju Vemanamanda
+
+---
+
+## 2. Individual Contributions
+| **Student Name**  | **Time Spent (hrs)** | **Tasks Completed** | **Challenges Faced** |
+|-------------------|-------------------|------------------|-----------------|
+| Bala Rama Murthy Raju Vemanamanda | 13 hrs  | Data Collection | Data Availability |
+| Venkat Amit Kommineni | 15 hrs | Database schema Design |  Identifying the primary Key for the indicator tables |
+| Rahul Parasa | 17 hrs | ER-Diagram and ER-Diagram Description | Structuring the relationships correctly while keeping the ERD clear and readable. |
+| Venkata Sai Akshith Kumar Bathula | 16 hrs | Normalisation | Understanding and Applying Normal Forms |
+
+---
+
+## 3.⁠ ⁠Key Achievements for the Week
+📌 understanding the data.
+📌 set a research objective.
+📌 setup a new database.
+📌 drew up an ER-Diagram with a schema where we created tables required for the study.
+📌 we shortlisted the indicators for the study of Economic growth.
+
+---
+
+## 4. Pending Tasks for Next Week
+📌 populating the data into the new database.
+📌 handling missing values.
+📌 data preprocessing.
+
+---
+
+## 5. GitHub Submission Details
+🔗 **GitHub Repository Link:** https://github.com/CSUN-MS-BANA/culminating-project-group-5/tree/main/Week_2
+📁 **Files Updated/Added:**  
+- Data Collection
+- ER-Diagram
+- ER- Diagram Description 
+- Normalisation
+- Database schema Design
+
+---
+
+### Submission Instructions
+1. Complete this progress report weekly.
+2. Upload it to your **GitHub repository** along with your project files.
+3. Keep track of contributions to maintain transparency.
