@@ -1,0 +1,48 @@
+# Group Weekly Progress Report
+
+**Master's in Business Analytics – Culminating Project**  
+**Group Name:** 5  
+**Week of:** 3  
+
+## 1. Group Lead for the Week
+📌 **Lead Member Name:** Rahul Parasa  
+
+---
+
+## 2. Individual Contributions
+| **Student Name**  | **Time Spent (hrs)** | **Tasks Completed** | **Challenges Faced** |
+|-------------------|-------------------|------------------|-----------------|
+| Rahul Parasa  | 24 hrs | Data Cleaning And Transformation  | handling missing values, standardization |
+| Venkat Amit Kommineni  | 24 hrs | Python Code(COLAB) | Data Handling,Data Transformation Issues |
+| Bala Rama Murtthy Vemanamanda  | 24 hrs | Schema | Handling Data Relationships & Normalization,Handling Quarterly Data in |
+| Venkata Sai Akshith Kumar Bathula | 21 hrs | indicators | Data Availability & Accessibility,Data Inconsistency |
+
+---
+
+## 3. Key Achievements for the Week
+📌  Data Transformation Using Melting Process which covert wide format of the data to long formart
+📌  data Preprocessing: handling missing values, standardization the numerical values and used one hot encoding on numerical values
+📌  data visualization and visualization of data using pithon
+---
+
+## 4. Pending Tasks for Next Week
+📌 short listing indicators to the minimum
+📌 Advanced Data Visualizations
+📌  
+
+---
+
+## 5. GitHub Submission Details
+🔗 **GitHub Repository Link:**  https://github.com/CSUN-MS-BANA/culminating-project-group-5/tree/main/Week_3  
+📁 **Files Updated/Added:**  
+-  Documentation( data cleaning)
+- Python code (Colab)
+- Schema
+- Documentation( indicators)
+
+---
+
+### Submission Instructions
+1. Complete this progress report weekly.
+2. Upload it to your **GitHub repository** along with your project files.
+3. Keep track of contributions to maintain transparency.
