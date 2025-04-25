@@ -1,0 +1,46 @@
+# Group Weekly Progress Report
+
+**Master's in Business Analytics – Culminating Project**  
+**Group Name:** 5  
+**Week of:** 3  
+
+## 1. Group Lead for the Week
+📌 **Lead Member Name:** Rahul Parasa  
+
+---
+
+## 2. Individual Contributions
+| **Student Name**  | **Time Spent (hrs)** | **Tasks Completed** | **Challenges Faced** |
+|-------------------|-------------------|------------------|-----------------|
+| Rahul Parasa  | 24 hrs | Research Questions & Analysis Methods | Defining Precise Research Questions |
+| Venkat Amit Kommineni | 24 hrs | Research Questions & Analysis Methods | Choosing Suitable Analytical Methods |
+| Bala Rama Murtthy Vemanamanda  | 24 hrs | Research Questions & Analysis Methods | Ensuring Comparability Across Countries |
+| Venkata Sai Akshith Kumar Bathula | 21 hrs | Research Questions & Analysis Methods | Data Availability & Quality |
+
+---
+
+## 3. Key Achievements for the Week
+📌  incorporated the professor’s suggestion and added additional countries to the dataset to enhance the analysis.
+📌  Refined Research Questions
+📌  
+---
+
+## 4. Pending Tasks for Next Week
+📌 Uploading the whole code onto GitHub
+📌 
+📌  
+
+---
+
+## 5. GitHub Submission Details
+🔗 **GitHub Repository Link:**   
+📁 **Files Updated/Added:**  https://github.com/CSUN-MS-BANA/culminating-project-group-5/tree/main/Week_4
+-  Research Questions
+- 
+
+---
+
+### Submission Instructions
+1. Complete this progress report weekly.
+2. Upload it to your **GitHub repository** along with your project files.
+3. Keep track of contributions to maintain transparency.
