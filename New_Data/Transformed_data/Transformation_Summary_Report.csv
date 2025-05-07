@@ -1,7 +1,0 @@
-Indicator Category,Best Transformation,Best Skewness (absolute)
-Financial Indicators,Signed Log,0.7885
-Economic Indicators,Signed Log,0.3955
-Public Debt Indicators,Signed Square Root,2.7648
-Social Indicators,Inverse,0.046
-Environmental Indicators,Yeo-Johnson,0.3037
-Statistical Indicators,Yeo-Johnson,0.1501
